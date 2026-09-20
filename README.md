@@ -176,7 +176,7 @@
                         <div class="absolute -inset-2 rounded-2xl bg-gradient-to-r from-gold/30 to-gold/10 transform rotate-2 blur-sm"></div>
                         <div class="relative bg-navy-light p-3 rounded-2xl border border-gold/30 shadow-2xl">
                             <div class="relative overflow-hidden rounded-xl aspect-[4/5] bg-navy">
-                                <img src="https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80" 
+                                <img src="image_0.png" 
                                      alt="Atika Jonathan Matata Dominic" 
                                      class="w-full h-full object-cover object-center filter contrast-105"
                                      onerror="this.src='https://placehold.co/600x750/17283c/dfc27f?text=Atika+Jonathan'">
